@@ -29,3 +29,21 @@ NB : ne pas commit les output de Jupyter !
 - Faire le Decision boudary plot => Vittorio
 
 - Utiliser le Decision tree ? => Alima
+
+
+# Présentation
+
+15 minutes de préz
+
+Raid et Illmmin présentent le pré-processing :
+- l'évaluation avec la méthode scale
+- la méthode OneHotEncoder
+- MinMax
+
+Alima :
+- présente le dataset 
+- présente le decision tree
+
+Vittorio :
+- "try to guess better K"
+- Decision boudaries
